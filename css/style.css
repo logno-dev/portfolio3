@@ -9,6 +9,7 @@ body {
 }
 
 body {
+  background-color: #010109;
   background: linear-gradient(130deg, #181824, #010109);
   background-attachment: fixed;
   padding: 1rem;
