@@ -1,6 +1,6 @@
 html,
 body {
-  height: 100vmax;
+  min-height: 100dvh;
   background-color: #010109;
   color: #e3e3e3;
   box-sizing: border-box;
