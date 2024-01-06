@@ -11,7 +11,7 @@ body {
 
 body {
   background: linear-gradient(130deg, #181824, #010109);
-  background-attachment: scroll;
+  background-attachment: fixed;
   padding: 1rem;
 }
 
